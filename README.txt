@@ -7,11 +7,11 @@ Summary.pdf: Summary of output
 
 tradeClassify.py: python file that contains all the code 
 
-.csv files: output from code processing the data
+.csv files will be produced from running the code, which is the processed data after classification
 
 
 
 
 TO RUN:
 
-Set 'mypath' to where you store all the .gz files and run the code
+Set 'mypath' to the folder where you store all the .gz files and run the code
